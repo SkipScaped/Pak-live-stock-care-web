@@ -1,0 +1,6 @@
+{
+  "name": "Pak LiveStock Care",
+  "description": "AI-powered mobile portal for livestock health monitoring, smart herd management, and regional clinic indexing tailored for Pakistani farmers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
